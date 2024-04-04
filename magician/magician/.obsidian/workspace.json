@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "040d9ee2e11c77d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "85cffb569ae946e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce0773c9ee70c041",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chatper/JAVA/Java Install.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5fb5fc9859f9340b",
+    "type": "split",
+    "children": [
+      {
+        "id": "97fff16057282f86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf2f269069aaf1ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e131d64d1b39cd60",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "65b442f036c6528b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "af6d1b96b8143a09",
+    "type": "split",
+    "children": [
+      {
+        "id": "e013b6a0a9039bfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0eaf8dda1b15cf5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "chatper/JAVA/Java Install.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40f2d6f20730516c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "chatper/JAVA/Java Install.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "efdf420bcd7e571a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8bd2d57abdab3eb7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "chatper/JAVA/Java Install.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "ce0773c9ee70c041",
+  "lastOpenFiles": [
+    "chatper/JAVA/JDBC.md",
+    "chatper/JAVA/Java Install.md",
+    "archive/archive list.md",
+    "chatper/Web Server/nginx.md",
+    "chatper/OS/Centos, Rockylinux.md",
+    "chatper/JAVA",
+    "System Porting.md",
+    "chatper/OS",
+    "create a link.md",
+    "무제 파일.canvas",
+    "{{tomorrow}}.md",
+    "{{yesterday}}.md",
+    "chatper/WAS",
+    "archive",
+    "chatper/Web Server",
+    "chatper"
+  ]
+}
