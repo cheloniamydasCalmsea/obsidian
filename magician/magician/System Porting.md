@@ -1,4 +1,4 @@
-Caeerpass 포팅 진행 문서입니다.
+Caeerpass 포팅 진행 문서이다.
 
 
 
