@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "magician/magician/chatper/Web Server/nginx.md",
+                "file": "magician/magician/SystemPorting/System Porting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f308f466edaf89d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "magician/magician/Apache-kafka/Apache-kafka.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "magician/magician/chatper/Web Server/nginx.md",
+                "file": "magician/magician/Apache-kafka/Apache-kafka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "magician/magician/chatper/Web Server/nginx.md",
+                "file": "magician/magician/Apache-kafka/Apache-kafka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "magician/magician/chatper/Web Server/nginx.md"
+                "file": "magician/magician/Apache-kafka/Apache-kafka.md"
               }
             }
           }
@@ -146,13 +159,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "741437cb4f4eca48",
+  "active": "badccdf63e5cb5fe",
   "lastOpenFiles": [
-    "magician/magician/System Porting.md",
-    "magician/magician/chatper/Web Server/nginx.md",
-    "magician/magician/chatper/OS/Centos, Rockylinux.md",
-    "magician/magician/chatper/OS/centos6.md",
-    "magician/magician/chatper/JAVA/Java Install.md",
-    "magician/magician/chatper/JAVA/JDBC.md"
+    "Untitled.md",
+    "magician/magician/Apache-kafka",
+    "magician/magician/SystemPorting/System Porting.md",
+    "magician/magician/Apache-kafka/Apache-kafka.md",
+    "magician/magician/SystemPorting",
+    "magician/magician/SystemPorting/archive/archive list.md",
+    "magician/magician/SystemPorting/chatper/Web Server/nginx.md",
+    "magician/magician/SystemPorting/chatper/OS/Centos, Rockylinux.md",
+    "magician/magician/SystemPorting/chatper/OS/centos6.md",
+    "magician/magician/SystemPorting/chatper/JAVA/Java Install.md",
+    "magician/magician/SystemPorting/chatper/JAVA/JDBC.md"
   ]
 }
