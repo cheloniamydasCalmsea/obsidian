@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "d8e553f3fbb96bdd",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cb8d94325e03776",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "741437cb4f4eca48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "magician/magician/chatper/Web Server/nginx.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9192fd04edd3b5fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb9996d95b1d0b17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "badccdf63e5cb5fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a5c12445f8a6e766",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c7b374009253b8b5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3bbaf3841664cb2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "632d39c2380e3a1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86e115f9ca5bd97b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "magician/magician/chatper/Web Server/nginx.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2cd07ee63a95c77",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "magician/magician/chatper/Web Server/nginx.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4ed1321767320b0f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8b84971774fc6985",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "magician/magician/chatper/Web Server/nginx.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "741437cb4f4eca48",
+  "lastOpenFiles": [
+    "magician/magician/System Porting.md",
+    "magician/magician/chatper/Web Server/nginx.md",
+    "magician/magician/chatper/OS/Centos, Rockylinux.md",
+    "magician/magician/chatper/OS/centos6.md",
+    "magician/magician/chatper/JAVA/Java Install.md",
+    "magician/magician/chatper/JAVA/JDBC.md"
+  ]
+}
